@@ -1,86 +1,79 @@
-<!-- 𓆩🔥 𝐊𝐑𝐈𝐒𝐇𝐀𝐍'𝐬 𝐎𝐏 𝐆𝐢𝐭𝐇𝐮𝐛 𝐑𝐞𝐚𝐝𝐦𝐞 🔥𓆪 -->
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Welcome+to+Krishan's+World;💻+Student+%7C+Coder+%7C+Developer;🎯+Dream+Company:+Google;🔥+Web+%26+Bot+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:EA4335,100:FABB05&height=200&section=header&text=Krishan%20🚀&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- Name Glitch -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/8V6jW/eyJyIjoiZnMiLCJoIjoxMTUsInciOjEwMDAsImZzIjoxMTUsImZnYyI6IiNGRjAwRkYiLCJiZ2MiOiIjMDAwMDAwIiwidCI6MX0/S1JJU0hBTg/hacked.ttf" alt="KRISHAN" width="600"/>
+  <a href="https://github.com/jay1234-bot">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Student+%7C+Web+Developer;Bot+Developer+%7C+Future+Googler;Coding+is+My+Passion;Always+Learning+%26+Building" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- About Me Card -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-💻%20About%20Me-black?style=for-the-badge&logo=About.me&logoColor=white"/>
-</p>
+---
+
+## 💫 About Me
+
 <div align="center">
-  
-💡 **I’m Krishan** — a passionate **student developer** from India 🇮🇳  
-🌱 Currently exploring **Full-Stack Web Development & Bot Automation**  
-🎯 **Dream Company:** Google  
-🚀 Love building **websites, bots & automation tools**  
-⚡ Always hungry for **learning & innovation**  
-
+  <img src="https://img.shields.io/badge/Name-Krishan-blue?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Student-Learner-green?style=for-the-badge&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/Dream-Google-red?style=for-the-badge&logo=google" />
 </div>
 
----
-
-<!-- Skills Card -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-🚀%20Skills-black?style=for-the-badge&logo=appveyor&logoColor=white"/>
-</p>
-<div align="center">
-  
-| 💻 Web Dev | 🤖 Bot Dev | ⚙️ Tools |
-|------------|------------|----------|
-| ![HTML5](https://img.icons8.com/color/48/html-5.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![JS](https://img.icons8.com/color/48/javascript.png) ![React](https://img.icons8.com/color/48/react-native.png) | ![Python](https://img.icons8.com/color/48/python.png) ![Telegram](https://img.icons8.com/color/48/telegram-app.png) | ![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png) ![Git](https://img.icons8.com/color/48/git.png) |
-
-</div>
-
----
-
-<!-- GitHub Stats Card -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-📊%20GitHub%20Stats-black?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jay1234-bot&show_icons=true&theme=tokyonight&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=jay1234-bot&theme=neon-dark&hide_border=true)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay1234-bot&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-<!-- Trophy Card -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-🏆%20Trophies-black?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jay1234-bot&theme=dracula&no-frame=true&row=1&column=7"/>
+  🔥 I'm a passionate **Student Developer** from India.  
+  💻 Skilled in **Web Development** & **Bot Development**.  
+  🚀 My dream is to work at **Google** and build products that change the world.  
 </p>
 
 ---
 
-<!-- Snake Animation -->
+## 🛠 Skills & Tools
+
 <p align="center">
-  <img src="https://github.com/jay1234-bot/jay1234-bot/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,github,git,vscode,tailwind" />
 </p>
 
 ---
 
-<!-- Fun Zone Card -->
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-🎉%20Fun%20Zone-black?style=for-the-badge&logo=google-earth&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jay1234-bot&show_icons=true&theme=radical" height="165" />
+  <img src="https://streak-stats.demolab.com?user=jay1234-bot&theme=radical&hide_border=false" height="165" />
 </p>
-<div align="center">
 
-![Meme](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
-💬 *"Code, Sleep, Repeat — Until You Join Google"* 🚀  
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jay1234-bot&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
-<p align="center">🔥 Made with ❤️ by <b>Krishan</b></p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jay1234-bot&theme=react-dark" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/jay1234-bot">
+    <img src="https://img.shields.io/badge/GitHub-jay1234--bot-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:example@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA4335,50:FABB05,100:34A853&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <i>“Code. Learn. Repeat. — Krishan”</i>
+</p>
