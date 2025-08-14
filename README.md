@@ -1,82 +1,86 @@
-<!-- Banner -->
+<!-- 𓆩🔥 𝐊𝐑𝐈𝐒𝐇𝐀𝐍'𝐬 𝐎𝐏 𝐆𝐢𝐭𝐇𝐮𝐛 𝐑𝐞𝐚𝐝𝐦𝐞 🔥𓆪 -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/FqW9rjQ/cyberpunk-banner.gif" alt="Krishan Banner" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Welcome+to+Krishan's+World;💻+Student+%7C+Coder+%7C+Developer;🎯+Dream+Company:+Google;🔥+Web+%26+Bot+Developer" alt="Typing SVG" />
 </p>
 
-<!-- Typewriter Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+I'm+Krishan!;Future+Googler+%F0%9F%8C%9F;Full-Stack+Web+Developer+%F0%9F%92%BB;Bot+Developer+%F0%9F%94%96;Coding+is+My+Addiction+%F0%9F%92%AB" alt="Typing SVG" />
-</h1>
+<!-- Name Glitch -->
+<p align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/8V6jW/eyJyIjoiZnMiLCJoIjoxMTUsInciOjEwMDAsImZzIjoxMTUsImZnYyI6IiNGRjAwRkYiLCJiZ2MiOiIjMDAwMDAwIiwidCI6MX0/S1JJU0hBTg/hacked.ttf" alt="KRISHAN" width="600"/>
+</p>
 
-<!-- About Me -->
-## 🚀 About Me  
-💻 **Student** with a burning passion for **Coding & Development**  
+<!-- About Me Card -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-💻%20About%20Me-black?style=for-the-badge&logo=About.me&logoColor=white"/>
+</p>
+<div align="center">
+  
+💡 **I’m Krishan** — a passionate **student developer** from India 🇮🇳  
+🌱 Currently exploring **Full-Stack Web Development & Bot Automation**  
 🎯 **Dream Company:** Google  
-🛠 Skilled in **Web Development**, **Bot Creation**, and **Automation**  
-🔥 Always ready to **learn, build, and innovate**  
-⚡ Fun Fact: I can code for hours without blinking 😏  
+🚀 Love building **websites, bots & automation tools**  
+⚡ Always hungry for **learning & innovation**  
+
+</div>
 
 ---
 
-<!-- Badges -->
+<!-- Skills Card -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Code-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/-🚀%20Skills-black?style=for-the-badge&logo=appveyor&logoColor=white"/>
+</p>
+<div align="center">
+  
+| 💻 Web Dev | 🤖 Bot Dev | ⚙️ Tools |
+|------------|------------|----------|
+| ![HTML5](https://img.icons8.com/color/48/html-5.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![JS](https://img.icons8.com/color/48/javascript.png) ![React](https://img.icons8.com/color/48/react-native.png) | ![Python](https://img.icons8.com/color/48/python.png) ![Telegram](https://img.icons8.com/color/48/telegram-app.png) | ![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png) ![Git](https://img.icons8.com/color/48/git.png) |
+
+</div>
+
+---
+
+<!-- GitHub Stats Card -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-📊%20GitHub%20Stats-black?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jay1234-bot&show_icons=true&theme=tokyonight&hide_border=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=jay1234-bot&theme=neon-dark&hide_border=true)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay1234-bot&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+<!-- Trophy Card -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-🏆%20Trophies-black?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jay1234-bot&theme=dracula&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-<!-- Skills -->
-## 🛠 Tech Stack
+<!-- Snake Animation -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,express,git,github,vscode,linux&theme=dark" />
+  <img src="https://github.com/jay1234-bot/jay1234-bot/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats & Activity
+<!-- Fun Zone Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jay1234-bot&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay1234-bot&theme=radical" height="180" />
+  <img src="https://img.shields.io/badge/-🎉%20Fun%20Zone-black?style=for-the-badge&logo=google-earth&logoColor=white"/>
 </p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jay1234-bot&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+![Meme](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
+💬 *"Code, Sleep, Repeat — Until You Join Google"* 🚀  
+
+</div>
 
 ---
+<p align="center">🔥 Made with ❤️ by <b>Krishan</b></p>
 
-<!-- Contribution Snake -->
-## 🐍 Watch the Snake Eat My Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jay1234-bot/jay1234-bot/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-<!-- Projects -->
-## 🚀 Featured Projects
-| Project Name | Description | Tech |
-|--------------|-------------|------|
-| **Advanced Telegram Bot** | A master-forward bot with skip & status features | Python, Telethon |
-| **Portfolio Website** | Personal portfolio with animations | HTML, CSS, JS |
-| **E-commerce Store** | Full-stack shopping platform | MERN Stack |
-
----
-
-<!-- Fun Zone -->
-## 🎭 Fun Zone
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400">
-</p>
-
----
-
-<!-- Closing -->
-<h3 align="center">💡 “Code is like humor. When you have to explain it, it’s bad.” 💡</h3>
-<h4 align="center">– Krishan</h4>
